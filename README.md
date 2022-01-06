@@ -11,6 +11,10 @@
 4. py -m pip install youtube-dl
 5. py -m pip install pyowm
 6. py -m pip install wikipedia
-  >***First run your IDE or CMD as Administrator and run the following:***
+  > ***First run your IDE or CMD as Administrator and run the following:***
+  
   >py -m pip install pipwin
+
   >pipwin install pyaudio
+
+![alt text](http://url/to/img.png)
