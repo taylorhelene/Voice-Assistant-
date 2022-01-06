@@ -17,4 +17,4 @@
 
   >pipwin install pyaudio
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/taylorhelene/Voice-Assistant-/blob/main/Images/pic.png)
