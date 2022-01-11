@@ -89,12 +89,11 @@ def assistant(command):
             3. Send email/email : Follow up questions such as recipient name, content will be asked in order.
             4. Current weather in {cityname} : Tells you the current condition and temperture
             5. Hello
-            6. play me a video : Plays song in your media player
-            7. change wallpaper : Change desktop wallpaper
-            8. news for today : reads top news of today
-            9. time : Current system time
-            10. top stories from google news (RSS feeds)
-            11. tell me about xyz : tells you about xyz
+            6. change wallpaper : Change desktop wallpaper
+            7. news for today : reads top news of today
+            8. time : Current system time
+            9. top stories from google news (RSS feeds)
+            10. tell me about xyz : tells you about xyz
             """)#joke
         elif 'joke' in command:
                 res = requests.get(
